@@ -1,0 +1,57 @@
+cv:
+  name: Your Name
+  headline: Your Professional Title
+  location: City, State
+  email: your.email@example.com
+  website: https://your-website.com
+  social_networks:
+    - network: LinkedIn
+      username: your-linkedin-username
+    - network: GitHub
+      username: your-github-username
+  sections:
+    summary:
+      - Results-driven professional with experience delivering measurable impact across projects and cross-functional teams.
+    experience:
+      - company: Company Name
+        position: Job Title
+        start_date: 2023-01
+        end_date: present
+        location: City, State
+        highlights:
+          - Led a key initiative that improved performance metrics by 20%.
+          - Partnered across teams to deliver projects ahead of schedule.
+      - company: Previous Company
+        position: Previous Job Title
+        start_date: 2020-06
+        end_date: 2022-12
+        location: City, State
+        highlights:
+          - Designed and maintained critical processes and related documentation.
+          - Mentored team members and supported onboarding for new hires.
+    education:
+      - institution: University Name
+        area: Your Field of Study
+        degree: BS
+        start_date: 2016-09
+        end_date: 2020-05
+        location: City, State
+        highlights:
+          - "GPA: 3.8/4.0"
+    projects:
+      - name: Project Name
+        date: 2024
+        summary: One-line summary of the project and its impact.
+        highlights:
+          - Implemented a feature that reduced manual effort by 30%.
+    skills:
+      - label: Programming Languages
+        details: Python, JavaScript, SQL
+      - label: Tools
+        details: Git, Docker, AWS
+
+design:
+  theme: classic
+
+locale:
+  language: english
