@@ -10,42 +10,45 @@ cv:
       username: ashkanRmk
   sections:
     summary:
-      - Innovative and results-driven Technical Lead with 9+ years of experience in software engineering, specializing in backend development, distributed systems, and scalable software architecture. 
+      - Innovative and results-driven Technical Lead with 9+ years of experience in software engineering, specializing in backend development, distributed systems, and scalable software architecture.
       - Proven track record of leading high-performing engineering teams, optimizing large-scale systems, and delivering reliable solutions in high-traffic environments.
-      - Passionate about mentorship, engineering culture, and helping developers grow into high-impact software engineers.
+      - Passionate about *mentorship*, *engineering culture*, and helping developers grow into high-impact software engineers.
     experience:
       - company: Alibaba Travels Co.
-        position: Technical Lead - Customer Excellency Team
+        position: Technical Lead
+        team: Customer Excellency Team
         start_date: 2025-01
         end_date: present
         location: Remote
-        summary: Alibaba Travels Co. is the pioneer and leader of online travel services and tourist business in Iran.
+        summary: Alibaba is a pioneer and market leader in online travel services and tourism in Iran.
         highlights:
           - Highlights to be added.
       - company: Alibaba Travels Co.
-        position: Technical Lead - Train and Bus
+        position: Technical Lead
+        team: Train and Bus Teams
         start_date: 2024-05
         end_date: 2025-01
         location: Remote
         highlights:
-          - Addressed historical infrastructure challenges related to resource consumption during peak pre-sale periods. Conducted an in-depth analysis of bottlenecks with the team and implemented significant optimizations to improve system efficiency
-            - Reduced CPU usage from 31.9 cores to 1.48 cores and RAM usage from 11.8 GiB to 1.85 GiB during peak operations, based on comparative normal-day metrics.
-            - Ensured system stability by identifying and resolving critical bottlenecks, paving the way for seamless upcoming pre-sale events.
-          - Introduced monitoring jobs to proactively detect conflicts in ticket bookings, enhancing the reliability of booking systems and reducing customer complaints.
-          - Redesigned the ticket issuance funnel to align with the updated infrastructure of the railway provider, ensuring smoother integration and better service delivery.
-          - Collaborated closely with cross-functional teams to ensure changes were implemented without service disruption, fostering a culture of continuous improvement and proactive problem-solving.
+          - Addressed historical infrastructure bottlenecks during peak pre-sale periods through deep analysis and targeted optimization.
+          - Reduced CPU usage from 31.9 cores to 1.48 cores and RAM usage from 11.8 GiB to 1.85 GiB during peak operations.
+          - Improved system stability by resolving critical bottlenecks, enabling seamless pre-sale events.
+          - Introduced proactive monitoring jobs to detect booking conflicts, improving booking reliability and reducing customer complaints.
+          - Redesigned the ticket issuance funnel to align with the railway provider's updated infrastructure, enabling smoother integration and better delivery.
+          - Collaborated with cross-functional teams to deliver changes without service disruption and drive continuous improvement.
       - company: Alibaba Travels Co.
-        position: Technical Lead - Bus Team
+        position: Technical Lead
+        team: Bus Team
         start_date: 2023-05
         end_date: 2024-05
         location: Remote
         highlights:
           - Established a new team from scratch, integrating business and technical processes to streamline bus service delivery.
-          - Leading a cross-functional team of 7 engineers to enhance and maintain Alibaba's bus services.
-          - Reduced financial discrepancies by 80% through process improvements and preventative measures.
-          - Designed and implemented a rule engine system, empowering the marketing team to independently execute campaigns.
-          - Formed partnerships with domestic insurance providers, increasing revenue and enhancing service offerings.
-          - Developed innovative solutions to streamline operations, reducing operational risks and optimizing performance.
+          - Led a cross-functional team of 7 engineers to enhance and maintain Alibaba's bus services.
+          - Reduced financial discrepancies by 80% through process improvements and preventive controls.
+          - Designed and implemented a rule engine that enabled the marketing team to run campaigns independently.
+          - Built partnerships with domestic insurance providers, increasing *revenue* and expanding service offerings.
+          - Developed solutions to streamline operations, reduce risk, and optimize performance.
       - company: Alibaba Travels Co.
         position: Senior Software Engineer
         start_date: 2023-03
@@ -57,30 +60,31 @@ cv:
         end_date: 2025-11
         location: Remote
         highlights:
-          - Led end-to-end delivery of a large-scale esports tournament platform (Call of Duty Mobile, PUBG), from product discovery to production launch.
+          - Led end-to-end delivery of a large-scale esports tournament platform (Call of Duty Mobile, PUBG), from discovery to production launch.
           - Designed system architecture and drove technical decisions for core platform components.
           - Built and led a team of senior engineers to deliver key features including matchmaking, leaderboards, team creation, and tournament engine.
-          - Successfully delivered a scalable platform supporting competitive gaming workflows from scratch to production.
+          - Delivered a scalable platform supporting competitive gaming workflows from scratch to production.
       - company: HappyDeveloper
         position: Software Engineering Mentor and Consultant
         start_date: 2021-06
         end_date: present
-        summary: Comments of mentorship sessions are [here](http://rahmani.dev/consult)
+        summary: Mentorship session feedbacks are available [here](http://rahmani.dev/consult).
         highlights:
-          - Created beginner-friendly educational videos to help students and professionals start their journey in programming.
-          - Explained core software engineering concepts and provided structured guidance for early-stage learners.
-          - Shared practical learning paths and strategies to build foundational technical skills.
-          - Covered essential soft skills for software engineers, including communication, problem-solving, and long-term career growth.
+          - Created beginner-friendly educational videos for students and professionals starting their programming journey.
+          - Taught core software engineering concepts with structured guidance for early-stage learners.
+          - Shared practical learning paths to build strong technical foundations.
+          - Covered essential soft skills including communication, problem-solving, and long-term career growth.
       - company: PayPing
         position: Back-End Technical Lead
+        team: Core Payment Systems
         start_date: 2021-09
         end_date: 2023-03
         location: On-Site
-        summary: PayPing is one of the leading P2P and B2C payment systems for individuals and businesses to send money easier than using ATMs or online bank gateways for over 200,000 users. We also provide financial infrastructure for platforms and marketplaces in Iran.
+        summary: PayPing is a leading P2P and B2C payment platform serving 200,000+ users, and provides financial infrastructure for platforms and marketplaces in Iran.
         highlights:
-          - Led cross-functional engineering initiatives and coordinated delivery between front-end and back-end teams while mentoring developers and promoting engineering best practices.
-          - Refactored and migrated a legacy core payment system of PayPing into a scalable, maintainable architecture capable of supporting 3X higher concurrent payment traffic with lower deployment risk.
-          - Identified and resolved critical technical debt, transaction inconsistencies, and high-risk bottlenecks across payment and withdrawal workflows, improving system reliability and operational stability.
+          - Led cross-functional engineering initiatives, coordinated front-end and back-end delivery, and mentored developers.
+          - Refactored and migrated a legacy core payment system to a scalable, maintainable architecture supporting 3x higher concurrent payment traffic with lower deployment risk.
+          - Resolved critical technical debt, transaction inconsistencies, and high-risk bottlenecks across payment and withdrawal workflows, improving reliability and stability.
       - company: PayPing
         position: Software Engineer
         start_date: 2017-10
@@ -89,13 +93,6 @@ cv:
         highlights:
           - Migrated a legacy monolithic .NET system to cloud-based microservices, improving scalability, performance, and maintainability.
           - Built and maintained 40+ payment services integrated with major PSPs and Shaparak using .NET, Redis, RabbitMQ, Docker, and Kong API Gateway.
-    education:
-      - institution: Sadjad University
-        area: Information Technology
-        degree: BS
-        location: Mashhad, Iran
-        start_date: 2012-09
-        end_date: 2016-06
     skills:
       - label: Core Backend
         details: C#, .NET, ASP.NET Core, REST APIs, Microservices
@@ -108,6 +105,24 @@ cv:
 
 design:
   theme: engineeringclassic
+  typography:
+    font_size:
+      body: 10pt
+      headline: 10pt
+  templates:
+    footer: ''
+    top_note: ''
+    experience_entry:
+      main_column: |
+        **COMPANY** - **POSITION**
+        *TEAM* - LOCATION
+        SUMMARY
+        HIGHLIGHTS
+  links:
+    underline: true
+    show_external_link_icon: true
+  section_titles:
+    space_above: 0.7cm
 
 locale:
   language: english
