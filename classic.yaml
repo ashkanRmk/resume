@@ -10,60 +10,85 @@ cv:
       username: ashkanRmk
   sections:
     summary:
-      - Innovative and results-driven Technical Lead with 9+ years of experience in software engineering, specializing in backend development, distributed systems, and scalable software architecture. Proven track record of leading high-performing engineering teams, optimizing large-scale systems, and delivering reliable solutions in high-traffic environments.\nExperienced in driving technical strategy, modernizing legacy platforms, improving system performance and reliability, and aligning engineering decisions with business goals.\nPassionate about mentorship, engineering culture, and helping developers grow into high-impact software engineers.
+      - Innovative and results-driven Technical Lead with 9+ years of experience in software engineering, specializing in backend development, distributed systems, and scalable software architecture. 
+      - Proven track record of leading high-performing engineering teams, optimizing large-scale systems, and delivering reliable solutions in high-traffic environments.
+      - Passionate about mentorship, engineering culture, and helping developers grow into high-impact software engineers.
     experience:
       - company: Alibaba Travels Co.
-        position: Technical Lead / Senior Software Engineer
-        start_date: 2023-03
+        position: Technical Lead - Customer Excellency Team
+        start_date: 2025-01
         end_date: present
         location: Remote
-        summary: Leading the technical direction and development of critical backend systems for Alibaba Travels, focusing on the Bus and Train product lines. Responsible for driving architectural improvements, optimizing system performance, and mentoring engineering teams to deliver high-quality software solutions in a fast-paced, high-traffic environment.
+        summary: Alibaba Travels Co. is the pioneer and leader of online travel services and tourist business in Iran.
         highlights:
-          - Senior Software Engineer (Mar 2023 - May 2023)
-            - Highlights to be added.
-            - Highlights to be added.
-          - Technical Lead - Bus Team (May 2023 - May 2024)
-            - Highlights to be added.
-            - Highlights to be added.
-          - Technical Lead - Train and Bus (May 2024 - Jan 2025)
-            - Highlights to be added.
-            - Highlights to be added.
-          - Technical Lead - Customer Excellency Team (Jan 2025 - Present)
-            - Highlights to be added.
-            - Highlights to be added.
-      - company: TornoGame (E-sport platform)
+          - Highlights to be added.
+      - company: Alibaba Travels Co.
+        position: Technical Lead - Train and Bus
+        start_date: 2024-05
+        end_date: 2025-01
+        location: Remote
+        highlights:
+          - Addressed historical infrastructure challenges related to resource consumption during peak pre-sale periods. Conducted an in-depth analysis of bottlenecks with the team and implemented significant optimizations to improve system efficiency
+            - Reduced CPU usage from 31.9 cores to 1.48 cores and RAM usage from 11.8 GiB to 1.85 GiB during peak operations, based on comparative normal-day metrics.
+            - Ensured system stability by identifying and resolving critical bottlenecks, paving the way for seamless upcoming pre-sale events.
+          - Introduced monitoring jobs to proactively detect conflicts in ticket bookings, enhancing the reliability of booking systems and reducing customer complaints.
+          - Redesigned the ticket issuance funnel to align with the updated infrastructure of the railway provider, ensuring smoother integration and better service delivery.
+          - Collaborated closely with cross-functional teams to ensure changes were implemented without service disruption, fostering a culture of continuous improvement and proactive problem-solving.
+      - company: Alibaba Travels Co.
+        position: Technical Lead - Bus Team
+        start_date: 2023-05
+        end_date: 2024-05
+        location: Remote
+        highlights:
+          - Established a new team from scratch, integrating business and technical processes to streamline bus service delivery.
+          - Leading a cross-functional team of 7 engineers to enhance and maintain Alibaba's bus services.
+          - Reduced financial discrepancies by 80% through process improvements and preventative measures.
+          - Designed and implemented a rule engine system, empowering the marketing team to independently execute campaigns.
+          - Formed partnerships with domestic insurance providers, increasing revenue and enhancing service offerings.
+          - Developed innovative solutions to streamline operations, reducing operational risks and optimizing performance.
+      - company: Alibaba Travels Co.
+        position: Senior Software Engineer
+        start_date: 2023-03
+        end_date: 2023-05
+        location: Remote
+      - company: TornoGame (E-Sport Platform)
         position: Technical Director
         start_date: 2025-02
         end_date: 2025-11
         location: Remote
-        summary: Leading the technical vision and development of TornoGame, an E-sport platform, overseeing the architecture and implementation of scalable backend systems to support a growing user base and high-traffic gaming environment. Responsible for driving innovation, optimizing performance, and ensuring the reliability of the platform while mentoring the engineering team.
         highlights:
-          - Highlights to be added.
+          - Led end-to-end delivery of a large-scale esports tournament platform (Call of Duty Mobile, PUBG), from product discovery to production launch.
+          - Designed system architecture and drove technical decisions for core platform components.
+          - Built and led a team of senior engineers to deliver key features including matchmaking, leaderboards, team creation, and tournament engine.
+          - Successfully delivered a scalable platform supporting competitive gaming workflows from scratch to production.
       - company: HappyDeveloper
         position: Software Engineering Mentor and Consultant
         start_date: 2021-06
         end_date: present
-        summary: Providing mentorship and consulting services to software engineers and development teams, focusing on backend development, system design, and career growth. Helping developers improve their technical skills, navigate career challenges, and achieve their professional goals through personalized guidance and support.
+        summary: Comments of mentorship sessions are [here](http://rahmani.dev/consult)
         highlights:
-          - Highlights to be added.
+          - Created beginner-friendly educational videos to help students and professionals start their journey in programming.
+          - Explained core software engineering concepts and provided structured guidance for early-stage learners.
+          - Shared practical learning paths and strategies to build foundational technical skills.
+          - Covered essential soft skills for software engineers, including communication, problem-solving, and long-term career growth.
       - company: PayPing
-        position: Back-End Technical Lead / Software Engineer / Backend Developer
-        start_date: 2017-10
+        position: Back-End Technical Lead
+        start_date: 2021-09
         end_date: 2023-03
         location: On-Site
-        summary: Led the backend development and technical strategy for PayPing, a leading payment platform, overseeing the design and implementation of scalable and reliable systems to support high-traffic financial transactions. Responsible for driving architectural improvements, optimizing system performance, and mentoring engineering teams to deliver high-quality software solutions in a fast-paced environment.
+        summary: PayPing is one of the leading P2P and B2C payment systems for individuals and businesses to send money easier than using ATMs or online bank gateways for over 200,000 users. We also provide financial infrastructure for platforms and marketplaces in Iran.
         highlights:
-          - Backend Developer (Oct 2017 - Apr 2018)
-          - Software Engineer (Apr 2018 - Oct 2021)
-          - Back-End Technical Lead (Sep 2021 - Mar 2023)
-          - Highlights to be added.
-      - company: Sadaf Food Industry
-        position: Android Developer
-        start_date: 2016-08
-        end_date: 2017-05
+          - Led cross-functional engineering initiatives and coordinated delivery between front-end and back-end teams while mentoring developers and promoting engineering best practices.
+          - Refactored and migrated a legacy core payment system of PayPing into a scalable, maintainable architecture capable of supporting 3X higher concurrent payment traffic with lower deployment risk.
+          - Identified and resolved critical technical debt, transaction inconsistencies, and high-risk bottlenecks across payment and withdrawal workflows, improving system reliability and operational stability.
+      - company: PayPing
+        position: Software Engineer
+        start_date: 2017-10
+        end_date: 2021-10
         location: On-Site
         highlights:
-          - Highlights to be added.
+          - Migrated a legacy monolithic .NET system to cloud-based microservices, improving scalability, performance, and maintainability.
+          - Built and maintained 40+ payment services integrated with major PSPs and Shaparak using .NET, Redis, RabbitMQ, Docker, and Kong API Gateway.
     education:
       - institution: Sadjad University
         area: Information Technology
@@ -82,7 +107,7 @@ cv:
         details: Docker, CI/CD, Git, Linux, Observability
 
 design:
-  theme: moderncv
+  theme: engineeringclassic
 
 locale:
   language: english
