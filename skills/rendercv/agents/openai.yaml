@@ -1,0 +1,4 @@
+interface:
+  display_name: "RenderCV Resume Builder"
+  short_description: "Create, edit, and render RenderCV resumes from YAML"
+  default_prompt: "Update or generate RenderCV YAML resumes and render outputs with valid RenderCV 2.8 fields."

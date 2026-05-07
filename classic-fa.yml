@@ -1,0 +1,132 @@
+cv:
+  name: Ashkan Rahmani
+  headline: رهبر فنی | مهندس ارشد نرم افزار
+  email: ashkan.rmk@gmail.com
+  website: https://rahmani.dev
+  social_networks:
+    - network: LinkedIn
+      username: ashkanrmk
+    - network: GitHub
+      username: ashkanRmk
+  sections:
+    summary:
+      - رهبر فنی نوآور و نتیجه گرا با بیش از 9 سال تجربه در مهندسی نرم افزار، متخصص در توسعه بک اند، سیستم های توزیع شده و معماری نرم افزار مقیاس پذیر.
+      - دارای سابقه اثبات شده در هدایت تیم های مهندسی پربازده، بهینه سازی سیستم های بزرگ مقیاس و ارائه راهکارهای قابل اعتماد در محیط های پرترافیک.
+      - علاقه مند به *mentorship*، *engineering culture* و کمک به رشد توسعه دهندگان برای تبدیل شدن به مهندسان نرم افزار اثرگذار.
+    experience:
+      - company: Alibaba Travels Co.
+        position: رهبر فنی
+        team: تیم تعالی مشتری
+        start_date: 2025-01
+        end_date: present
+        location: دورکاری
+        summary: علی بابا پیشگام و رهبر بازار خدمات آنلاین سفر و گردشگری در ایران است.
+        highlights:
+          - موارد شاخص بعدا اضافه می شوند.
+      - company: Alibaba Travels Co.
+        position: رهبر فنی
+        team: تیم های قطار و اتوبوس
+        start_date: 2024-05
+        end_date: 2025-01
+        location: دورکاری
+        highlights:
+          - رفع گلوگاه های تاریخی زیرساخت در دوره های پیش فروش پرترافیک از طریق تحلیل عمیق و بهینه سازی هدفمند.
+          - کاهش مصرف CPU از 31.9 هسته به 1.48 هسته و مصرف RAM از 11.8 GiB به 1.85 GiB در زمان اوج عملیات.
+          - بهبود پایداری سیستم با رفع گلوگاه های حیاتی و ایجاد برگزاری بدون اختلال رویدادهای پیش فروش.
+          - معرفی Job های پایش پیشگیرانه برای شناسایی تعارض های رزرو، با هدف بهبود قابلیت اطمینان رزرو و کاهش شکایت مشتریان.
+          - بازطراحی قیف صدور بلیت مطابق با زیرساخت جدید تامین کننده ریلی، برای یکپارچگی روان تر و تحویل بهتر.
+          - همکاری با تیم های بین وظیفه ای برای ارائه تغییرات بدون اختلال سرویس و پیشبرد بهبود مستمر.
+      - company: Alibaba Travels Co.
+        position: رهبر فنی
+        team: تیم اتوبوس
+        start_date: 2023-05
+        end_date: 2024-05
+        location: دورکاری
+        highlights:
+          - ایجاد یک تیم جدید از صفر و یکپارچه سازی فرایندهای کسب وکار و فنی برای تسهیل ارائه سرویس اتوبوس.
+          - هدایت تیمی بین وظیفه ای متشکل از 7 مهندس برای توسعه و نگهداری سرویس های اتوبوس علی بابا.
+          - کاهش 80 درصدی مغایرت های مالی از طریق بهبود فرایندها و کنترل های پیشگیرانه.
+          - طراحی و پیاده سازی Rule Engine که اجرای کمپین ها را به صورت مستقل برای تیم مارکتینگ ممکن کرد.
+          - ایجاد همکاری با ارائه دهندگان بیمه داخلی که منجر به افزایش *revenue* و گسترش خدمات شد.
+          - توسعه راهکارهایی برای ساده سازی عملیات، کاهش ریسک و بهینه سازی عملکرد.
+      - company: Alibaba Travels Co.
+        position: مهندس ارشد نرم افزار
+        start_date: 2023-03
+        end_date: 2023-05
+        location: دورکاری
+      - company: TornoGame (E-Sport Platform)
+        position: مدیر فنی
+        start_date: 2025-02
+        end_date: 2025-11
+        location: دورکاری
+        highlights:
+          - رهبری تحویل انتها به انتهای یک پلتفرم بزرگ مسابقات esports (Call of Duty Mobile, PUBG) از مرحله کشف نیاز تا انتشار در محیط عملیاتی.
+          - طراحی معماری سیستم و هدایت تصمیم های فنی برای اجزای اصلی پلتفرم.
+          - تشکیل و رهبری تیمی از مهندسان ارشد برای ارائه قابلیت های کلیدی مانند matchmaking، leaderboards، team creation و tournament engine.
+          - ارائه یک پلتفرم مقیاس پذیر که جریان های کاری رقابتی بازی را از صفر تا محیط عملیاتی پشتیبانی می کند.
+      - company: HappyDeveloper
+        position: منتور و مشاور مهندسی نرم افزار
+        start_date: 2021-06
+        end_date: present
+        summary: بازخورد جلسات منتورینگ در [اینجا](http://rahmani.dev/consult) در دسترس است.
+        highlights:
+          - تولید ویدئوهای آموزشی ساده و کاربردی برای دانشجویان و متخصصانی که مسیر برنامه نویسی را آغاز کرده اند.
+          - آموزش مفاهیم اصلی مهندسی نرم افزار با راهنمایی ساختاریافته برای یادگیرندگان ابتدایی.
+          - اشتراک گذاری مسیرهای یادگیری عملی برای ساخت پایه فنی مستحکم.
+          - پوشش مهارت های نرم کلیدی از جمله ارتباط موثر، حل مسئله و رشد بلندمدت حرفه ای.
+      - company: PayPing
+        position: رهبر فنی بک اند
+        team: سیستم های هسته پرداخت
+        start_date: 2021-09
+        end_date: 2023-03
+        location: حضوری
+        summary: پی پینگ یک پلتفرم پیشرو پرداخت P2P و B2C برای بیش از 200,000 کاربر است و زیرساخت مالی برای پلتفرم ها و مارکت پلیس ها در ایران فراهم می کند.
+        highlights:
+          - رهبری ابتکارهای مهندسی بین وظیفه ای، هماهنگی تحویل فرانت اند و بک اند، و منتورینگ توسعه دهندگان.
+          - بازآرایی و مهاجرت سیستم قدیمی هسته پرداخت به معماری مقیاس پذیر و قابل نگهداری که ترافیک همزمان پرداخت 3 برابری را با ریسک استقرار کمتر پشتیبانی کرد.
+          - رفع بدهی فنی بحرانی، ناسازگاری های تراکنش و گلوگاه های پرریسک در جریان های پرداخت و برداشت برای افزایش قابلیت اطمینان و پایداری.
+      - company: PayPing
+        position: مهندس نرم افزار
+        start_date: 2017-10
+        end_date: 2021-10
+        location: حضوری
+        highlights:
+          - مهاجرت یک سیستم یکپارچه قدیمی .NET به Microservices ابری، با بهبود مقیاس پذیری، عملکرد و نگهداری پذیری.
+          - توسعه و نگهداری بیش از 40 سرویس پرداخت یکپارچه با PSPهای اصلی و شاپرک با استفاده از .NET، Redis، RabbitMQ، Docker و Kong API Gateway.
+    skills:
+      - label: Core Backend
+        details: C#, .NET, ASP.NET Core, REST APIs, Microservices
+      - label: Data & Messaging
+        details: SQL Server, PostgreSQL, Redis, RabbitMQ, Kafka
+      - label: Architecture & Leadership
+        details: System Design, Technical Leadership, Mentoring, Agile Delivery
+      - label: DevOps & Platform
+        details: Docker, CI/CD, Git, Linux, Observability
+
+design:
+  theme: engineeringclassic
+  typography:
+    font_family: Vazirmatn
+    font_size:
+      body: 10pt
+      headline: 10pt
+  templates:
+    footer: ''
+    top_note: ''
+    experience_entry:
+      main_column: |
+        **COMPANY** - **POSITION**
+        *TEAM* - LOCATION
+        SUMMARY
+        HIGHLIGHTS
+  links:
+    underline: true
+    show_external_link_icon: true
+  section_titles:
+    space_above: 0.7cm
+
+locale:
+  language: persian
+
+settings:
+  current_date: '2025-12-03'
