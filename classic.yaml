@@ -1,57 +1,92 @@
 cv:
-  name: Your Name
-  headline: Your Professional Title
-  location: City, State
-  email: your.email@example.com
-  website: https://your-website.com
+  name: Ashkan Rahmani
+  headline: Technical Lead | Senior Software Engineer
+  email: ashkan.rmk@gmail.com
+  website: https://rahmani.dev
   social_networks:
     - network: LinkedIn
-      username: your-linkedin-username
+      username: ashkanrmk
     - network: GitHub
-      username: your-github-username
+      username: ashkanRmk
   sections:
     summary:
-      - Results-driven professional with experience delivering measurable impact across projects and cross-functional teams.
+      - Innovative and results-driven Technical Lead with 9+ years of experience in software engineering, specializing in backend development, distributed systems, and scalable software architecture. Proven track record of leading high-performing engineering teams, optimizing large-scale systems, and delivering reliable solutions in high-traffic environments.\nExperienced in driving technical strategy, modernizing legacy platforms, improving system performance and reliability, and aligning engineering decisions with business goals.\nPassionate about mentorship, engineering culture, and helping developers grow into high-impact software engineers.
     experience:
-      - company: Company Name
-        position: Job Title
-        start_date: 2023-01
+      - company: Alibaba Travels Co.
+        position: Technical Lead / Senior Software Engineer
+        start_date: 2023-03
         end_date: present
-        location: City, State
+        location: Remote
+        summary: Leading the technical direction and development of critical backend systems for Alibaba Travels, focusing on the Bus and Train product lines. Responsible for driving architectural improvements, optimizing system performance, and mentoring engineering teams to deliver high-quality software solutions in a fast-paced, high-traffic environment.
         highlights:
-          - Led a key initiative that improved performance metrics by 20%.
-          - Partnered across teams to deliver projects ahead of schedule.
-      - company: Previous Company
-        position: Previous Job Title
-        start_date: 2020-06
-        end_date: 2022-12
-        location: City, State
+          - Senior Software Engineer (Mar 2023 - May 2023)
+            - Highlights to be added.
+            - Highlights to be added.
+          - Technical Lead - Bus Team (May 2023 - May 2024)
+            - Highlights to be added.
+            - Highlights to be added.
+          - Technical Lead - Train and Bus (May 2024 - Jan 2025)
+            - Highlights to be added.
+            - Highlights to be added.
+          - Technical Lead - Customer Excellency Team (Jan 2025 - Present)
+            - Highlights to be added.
+            - Highlights to be added.
+      - company: TornoGame (E-sport platform)
+        position: Technical Director
+        start_date: 2025-02
+        end_date: 2025-11
+        location: Remote
+        summary: Leading the technical vision and development of TornoGame, an E-sport platform, overseeing the architecture and implementation of scalable backend systems to support a growing user base and high-traffic gaming environment. Responsible for driving innovation, optimizing performance, and ensuring the reliability of the platform while mentoring the engineering team.
         highlights:
-          - Designed and maintained critical processes and related documentation.
-          - Mentored team members and supported onboarding for new hires.
+          - Highlights to be added.
+      - company: HappyDeveloper
+        position: Software Engineering Mentor and Consultant
+        start_date: 2021-06
+        end_date: present
+        summary: Providing mentorship and consulting services to software engineers and development teams, focusing on backend development, system design, and career growth. Helping developers improve their technical skills, navigate career challenges, and achieve their professional goals through personalized guidance and support.
+        highlights:
+          - Highlights to be added.
+      - company: PayPing
+        position: Back-End Technical Lead / Software Engineer / Backend Developer
+        start_date: 2017-10
+        end_date: 2023-03
+        location: On-Site
+        summary: Led the backend development and technical strategy for PayPing, a leading payment platform, overseeing the design and implementation of scalable and reliable systems to support high-traffic financial transactions. Responsible for driving architectural improvements, optimizing system performance, and mentoring engineering teams to deliver high-quality software solutions in a fast-paced environment.
+        highlights:
+          - Backend Developer (Oct 2017 - Apr 2018)
+          - Software Engineer (Apr 2018 - Oct 2021)
+          - Back-End Technical Lead (Sep 2021 - Mar 2023)
+          - Highlights to be added.
+      - company: Sadaf Food Industry
+        position: Android Developer
+        start_date: 2016-08
+        end_date: 2017-05
+        location: On-Site
+        highlights:
+          - Highlights to be added.
     education:
-      - institution: University Name
-        area: Your Field of Study
+      - institution: Sadjad University
+        area: Information Technology
         degree: BS
-        start_date: 2016-09
-        end_date: 2020-05
-        location: City, State
-        highlights:
-          - "GPA: 3.8/4.0"
-    projects:
-      - name: Project Name
-        date: 2024
-        summary: One-line summary of the project and its impact.
-        highlights:
-          - Implemented a feature that reduced manual effort by 30%.
+        location: Mashhad, Iran
+        start_date: 2012-09
+        end_date: 2016-06
     skills:
-      - label: Programming Languages
-        details: Python, JavaScript, SQL
-      - label: Tools
-        details: Git, Docker, AWS
+      - label: Core Backend
+        details: C#, .NET, ASP.NET Core, REST APIs, Microservices
+      - label: Data & Messaging
+        details: SQL Server, PostgreSQL, Redis, RabbitMQ, Kafka
+      - label: Architecture & Leadership
+        details: System Design, Technical Leadership, Mentoring, Agile Delivery
+      - label: DevOps & Platform
+        details: Docker, CI/CD, Git, Linux, Observability
 
 design:
-  theme: classic
+  theme: moderncv
 
 locale:
   language: english
+
+
+settings:
+  current_date: '2025-12-03'
