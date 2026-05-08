@@ -22,7 +22,10 @@ cv:
         location: Remote
         summary: Alibaba is a pioneer and market leader in online travel services and tourism in Iran.
         highlights:
-          - Highlights to be added.
+          - Led architecture and delivery of a modular monolith back-office platform, establishing scalable domain boundaries, reusable infrastructure, and shared engineering standards across teams.
+          - Re-designed call-center workflows through AI-assisted automation and event-driven processes, contributing to a 40% reduction in operational costs and significantly reducing manual operator involvement.
+          - Led development of an AI-powered customer communication platform that automatically classified multilingual customer media/messages, routed requests to the appropriate operational teams, and automated flight/tour change extraction and customer notifications.
+          - Built reusable internal platform capabilities for administration, auditing, messaging, authentication, and authorization, accelerating delivery and improving consistency across business domains.
       - company: Alibaba Travels Co.
         position: Technical Lead
         team: Train and Bus Teams
@@ -93,15 +96,6 @@ cv:
         highlights:
           - Migrated a legacy monolithic .NET system to cloud-based microservices, improving scalability, performance, and maintainability.
           - Built and maintained 40+ payment services integrated with major PSPs and Shaparak using .NET, Redis, RabbitMQ, Docker, and Kong API Gateway.
-    skills:
-      - label: Core Backend
-        details: C#, .NET, ASP.NET Core, REST APIs, Microservices
-      - label: Data & Messaging
-        details: SQL Server, PostgreSQL, Redis, RabbitMQ, Kafka
-      - label: Architecture & Leadership
-        details: System Design, Technical Leadership, Mentoring, Agile Delivery
-      - label: DevOps & Platform
-        details: Docker, CI/CD, Git, Linux, Observability
 
 design:
   theme: engineeringclassic
